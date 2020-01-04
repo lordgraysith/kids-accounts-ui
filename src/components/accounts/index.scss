@@ -1,0 +1,36 @@
+.center {
+  text-align: center;
+}
+
+.blank {
+  text-decoration: none;
+}
+
+.main-kids {
+  padding-top: 2em;
+}
+
+.account-type {
+  margin-left: 0.5em;
+}
+
+.red {
+  color: red;
+}
+
+.amount {
+  float: right;
+}
+
+#back {
+  float: left;
+  position: absolute;
+  left: 2em;
+}
+
+@media screen and (min-width: 600px) {
+  h1.header {
+    margin-left: 25px;
+    margin-right: 25px;
+  }
+}

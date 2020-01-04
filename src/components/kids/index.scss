@@ -1,0 +1,17 @@
+.center {
+  text-align: center;
+}
+
+.blank {
+  text-decoration: none;
+}
+
+.main-kids {
+  padding-top: 2em;
+}
+
+@media screen and (min-width: 320px) {
+  .kid-cell.md-btn--text {
+      height: 48px;
+  }
+}

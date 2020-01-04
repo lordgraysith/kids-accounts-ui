@@ -1,0 +1,32 @@
+.center {
+  text-align: center; }
+
+.payment-paper {
+  margin: 1em;
+  padding: 1em; }
+
+.main-kid {
+  padding-top: 2em; }
+
+#back {
+  float: left;
+  position: absolute;
+  left: 2em; }
+
+.date {
+  font-style: italic;
+  color: gray; }
+
+.description {
+  margin-left: 2em; }
+
+.red {
+  color: red; }
+
+.amount {
+  float: right; }
+
+@media screen and (min-width: 600px) {
+  h1.header {
+    margin-left: 25px;
+    margin-right: 25px; } }

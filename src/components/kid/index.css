@@ -1,0 +1,24 @@
+.center {
+  text-align: center; }
+
+.payment-paper {
+  margin: 1em;
+  padding: 1em; }
+
+.main-kid {
+  padding-top: 2em; }
+
+.clickme {
+  cursor: pointer; }
+
+#back {
+  float: left;
+  position: absolute;
+  left: 2em; }
+
+@media (max-width: 599px) {
+  .account-cell {
+    margin-left: 26px; }
+  h1.header {
+    margin-left: 25px;
+    margin-right: 25px; } }

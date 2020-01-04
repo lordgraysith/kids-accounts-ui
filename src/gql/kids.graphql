@@ -1,0 +1,14 @@
+query Kids {
+  kids {
+    id,
+    name,
+    accounts {
+      id,
+      balance,
+      type {
+        id,
+        description
+      }
+    }
+  }
+}
